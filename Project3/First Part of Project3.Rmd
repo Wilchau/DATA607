@@ -30,7 +30,7 @@ Understand the value of collaboration to strengthen team members' soft skills. E
 ### Collaboration Tools \
 We have chosen the most common collaboration tools to work on the project. \
 For the communication, the team will use a messaging program, **Slack**, <https://slack.com/>. \
-Project management will be organized via platform for software development and version control, **GitHub**, <https://github.com/blacksmilez/DATA607/tree/main/Project3>. Project progress will be managed by **GitHub Board**, <https://github.com/users/blacksmilez/projects/2/views/1>.\
+Project management will be organized via platform for software development and version control, **GitHub**, <https://github.com/blacksmilez/DATA607/tree/main/Project3>. Project progress will be managed by **GitHub Board**.\
 As well as a code sharing will also be organized via **GitHub** since team members can change the code and commit changes to the general file. \
 Since the assignment is including the work with databases, we have decided to use **Microsoft Azure Database** for MySQL Database, <https://azure.microsoft.com>. As a result, all teammates will be able to work together on the same database in real time and access the latest version of our database. \
 Project documentation and coding will be done by each team member via an integrated development environment for R, **RStudio**\
@@ -57,6 +57,7 @@ A physical data model for the normalized database, and an Entity-Relationship (E
 <p align="center">
   <img src="https://raw.githubusercontent.com/blacksmilez/DATA607/main/Project3/erd.png">
 </p>
+On our ER diagram we have a few approaches to doing some analytical deliverable where we can inspect our dataset. One option is going through inspection type with and without the influence of inspection_code. This can give us some correlation where inspection code may have different types of inspection results. Another investigation road we can focus on would be the building and how it can influences some of the inspection results. These types of focuses can give us some insights on how New York Resturant inspections are being graded and the types of influences that will affect the grading of the inspections for these NYC resturants. 
 
 
 
