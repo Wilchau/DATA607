@@ -52,6 +52,7 @@ The description of the columns is provided at the link below:
 
 ### Entity-Relationship diagram \
 A physical data model for the normalized database, and an Entity-Relationship (ER) diagram is available via team's GitHub repository.
+This diagram represents the dataset from the  New York City Resturant Inspections. We have a few ways to analyze our dataset. From Inspection_type + inspection code this can give us the inspection results. This can give us an insight on the action/grade code. Another finding is looking at building, and analyazing the building types that can lead to the name of the resturant, violation, and boro. All of these approaches can give us more analytic studies to find any correlation of what type of violation code can affect the business/building type.
 <p align="center">
   <img src="https://raw.githubusercontent.com/blacksmilez/DATA607/main/Project3/erd.png">
 </p>
